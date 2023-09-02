@@ -1,0 +1,8 @@
+# GUIDELINES TO RUN OR CHECK PROJECT ON SERVER
+
+1. To run project : python manage.py runserver
+2. 127.0.0.1:8000/admin/ : will open the admin panel
+3. 127.0.0.1:8000/main/upload/ : will open web page or html template to upload csv file with option of timeframe and submit button
+4. 127.0.0.1:8000/main/download/ : Just press ENTER after this it will directly download a JSON file of Candles
+
+
